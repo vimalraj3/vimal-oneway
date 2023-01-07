@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQGu7-AoPQ7EQg/profile-displaybackgroundimage-shrink_350_1400/0/1662056431139?e=1678320000&v=beta&t=oa3X6r5kD2jhKIwI_UPyS1vFvx4QnjpTGx30E0lG2yM)](https://webie.me)
+![VIMAL RAJ (1)](https://user-images.githubusercontent.com/90978643/211163001-0d375e98-7120-4036-aa88-0a9bab9b3ba2.gif)
 <h1 align="center">Hi 👋, I'm Vimal Raj</h1>
 <h3 align="center">A passionate web app developer</h3>
 
