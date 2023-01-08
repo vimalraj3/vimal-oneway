@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimal-oneway&show_icons=true&locale=en" alt="vimal-oneway" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-oneway&" alt="vimal-oneway" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vimal-oneway&" alt="vimal-oneway" /></p>
