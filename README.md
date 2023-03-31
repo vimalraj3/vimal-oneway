@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MERN ecommerce**
 
-- 👨‍💻 All of my projects are available at [https://webie.me/](https://webie.me/)
+- 👨‍💻 All of my projects are available at [Vimal-Oneway](https://vimal-oneway.github.io/)
 
 - 💬 Ask me about **Reactjs, nodejs, java.**
 
