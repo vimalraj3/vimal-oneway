@@ -8,11 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on **MERN ecommerce**
+- 🔭 I’m currently working on **Cloud Kitchen Project**
 
 - 👨‍💻 All of my projects are available at [Vimal-Oneway](https://vimal-oneway.github.io/)
 
-- 💬 Ask me about **Reactjs, nodejs, java.**
+- 💬 Ask me about **Reactjs, nodejs, MongoDB**
 
 - 📫 How to reach me **vimalic555@gmail.com**
 
