@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Redux, typescript, nodejs, express.js, mongodb, postgreSQL and prisma.**
 
-- 📫 How to reach me **contact@vimaldev.in**
+- 📫 How to reach me **vimalic555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
